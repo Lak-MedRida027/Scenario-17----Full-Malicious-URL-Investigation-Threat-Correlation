@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#hub",
+      "color": {
+        "a": 1,
+        "rgb": 6051671
+      }
+    },
+    {
+      "query": "tag:#workflow",
+      "color": {
+        "a": 1,
+        "rgb": 769749
+      }
+    },
+    {
+      "query": "tag:#cat-a",
+      "color": {
+        "a": 1,
+        "rgb": 13009164
+      }
+    },
+    {
+      "query": "tag:#cat-b",
+      "color": {
+        "a": 1,
+        "rgb": 13242898
+      }
+    },
+    {
+      "query": "tag:#cat-c",
+      "color": {
+        "a": 1,
+        "rgb": 12915922
+      }
+    },
+    {
+      "query": "tag:#concept",
+      "color": {
+        "a": 1,
+        "rgb": 1892633
+      }
+    },
+    {
+      "query": "tag:#finding",
+      "color": {
+        "a": 1,
+        "rgb": 15261975
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.12214137214137,
+  "lineSizeMultiplier": 1.67390852390852,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.2588386562181617,
+  "close": false
+}
