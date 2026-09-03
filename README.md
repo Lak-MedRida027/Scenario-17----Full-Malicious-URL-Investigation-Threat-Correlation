@@ -69,8 +69,10 @@ An email campaign targets employees using a shortened URL that leads to a phishi
 ## 📁 Repository Contents
 
 ```
-├── README.md
+├── SC17-KG/                           # Obsidian knowledge graph 
+├── Screenshots/                       # Evidence captures
 ├── Mohammed_Rida_Task17_Report.pdf    # Full investigation report (56 pages)
+└── README.md
 ```
 
 ## 🛡️ Recommendations
